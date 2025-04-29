@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+peft
+unsloth
+bitsandbytes
+accelerate
+datasets
+sentencepiece
+scipy
